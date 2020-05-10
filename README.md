@@ -1,7 +1,9 @@
 # ML_azure_notebooks
 This repository contains projects that focus on building Machine Learning models with Python. The projects were made based on Miscrosoft Learn in the Azure Notebooks environment.
 
-- Prediction of flight delay
+- Prediction of flight delay;
+Data set: flightdata.csv - information about flights for a major U.S. airline
+Data was loaded, cleaned and prepared with Pandas Then, a machine-learning model was built with scikit-learn. Using Matplotlib, the output from the model was visualized.
 
 - Sentiment analysis - customer reviews; 
 Data set: https://keras.io/api/datasets/imdb/ 
